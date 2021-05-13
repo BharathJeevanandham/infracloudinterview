@@ -1,0 +1,21 @@
+--2021-05-13 07:47:50--  http://localhost:9393/raw
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:9393... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-05-13 07:47:52--  (try: 2)  http://localhost:9393/raw
+Connecting to localhost (localhost)|127.0.0.1|:9393... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-05-13 07:47:54--  (try: 3)  http://localhost:9393/raw
+Connecting to localhost (localhost)|127.0.0.1|:9393... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-05-13 07:47:57--  (try: 4)  http://localhost:9393/raw
+Connecting to localhost (localhost)|127.0.0.1|:9393... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
