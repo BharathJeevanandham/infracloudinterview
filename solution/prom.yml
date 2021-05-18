@@ -1,0 +1,8 @@
+global:
+  scrape_interval: 5s
+  external_labels:
+    monitor: 'csvserver'
+scrape_configs:
+  - job_name: 'prometheus' 
+    static_configs: 
+      - targets: ['localhost:9393']
